@@ -1,0 +1,98 @@
+<section class="wallet-section padding-top padding-bottom">
+    <div class="container">
+
+        <div class="section-header style-4">
+            <div class="header-shape"><span></span></div>
+            <h3>Our Services</h3>
+        </div>
+
+        <div class="wallet-inner">
+            <div class="row g-3">
+                <div class="col-lg-2 col-sm-4 col-6">
+                    <div class="wallet-item home-4">
+                        <div class="wallet-item-inner text-center">
+                            <div class="wallet-thumb">
+                                <a href="#">
+                                    <img src="assets/images/wallet/06.png" alt="wallet-img">
+                                </a>
+                            </div>
+                            <div class="wallet-content">
+                                <h5><a href="#">NFT Creation</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-4 col-6">
+                    <div class="wallet-item home-4">
+                        <div class="wallet-item-inner text-center">
+                            <div class="wallet-thumb">
+                                <a href="#">
+                                    <img src="assets/images/wallet/07.png" alt="wallet-img">
+                                </a>
+                            </div>
+                            <div class="wallet-content">
+                                <h5><a href="#">NFT Generation</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-4 col-6">
+                    <div class="wallet-item home-4">
+                        <div class="wallet-item-inner text-center">
+                            <div class="wallet-thumb">
+                                <a href="#">
+                                    <img src="assets/images/wallet/08.png" alt="wallet-img">
+                                </a>
+                            </div>
+                            <div class="wallet-content">
+                                <h5><a href="#">Smart Contact</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-4 col-6">
+                    <div class="wallet-item home-4">
+                        <div class="wallet-item-inner text-center">
+                            <div class="wallet-thumb">
+                                <a href="#">
+                                    <img src="assets/images/wallet/01.png" alt="wallet-img">
+                                </a>
+                            </div>
+                            <div class="wallet-content">
+                                <h5><a href="#">Minting Page</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-4 col-6">
+                    <div class="wallet-item home-4">
+                        <div class="wallet-item-inner text-center">
+                            <div class="wallet-thumb">
+                                <a href="#">
+                                    <img src="assets/images/wallet/03.png" alt="wallet-img">
+                                </a>
+                            </div>
+                            <div class="wallet-content">
+                                <h5><a href="#">Marketing Website</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-sm-4 col-6">
+                    <div class="wallet-item home-4">
+                        <div class="wallet-item-inner text-center">
+                            <div class="wallet-thumb">
+                                <a href="#">
+                                    <img src="assets/images/wallet/05.png" alt="wallet-img">
+                                </a>
+                            </div>
+                            <div class="wallet-content">
+                                <h5><a href="#">Discord Service</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
