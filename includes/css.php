@@ -21,6 +21,7 @@
 <link rel="stylesheet" href="assets/css/animate.css">
 <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
 <link rel="stylesheet" href="assets/css/style.min.css">
+<link rel="stylesheet" href="assets/css/custom.css">
 
 <!-- site title -->
 <title>Enftomark</title>

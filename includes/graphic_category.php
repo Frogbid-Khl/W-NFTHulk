@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-header style-4">
             <div class="header-shape"><span></span></div>
-            <h3>Browse By Catergory</h3>
+            <h3>Graphic Catergory</h3>
         </div>
         <div class="section-wrapper">
 
@@ -32,7 +32,7 @@
                                 </div>
                                 <div class="nft-content">
                                     <div class="author-details">
-                                        <h4><a href="explore.html">Digital Art</a> </h4>
+                                        <h4><a href="explore.html">Pixel Art</a> </h4>
                                     </div>
                                 </div>
                             </div>

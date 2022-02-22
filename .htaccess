@@ -1,0 +1,35 @@
+ErrorDocument 404 404.php
+
+RewriteEngine on
+
+RewriteRule ^Welcome  index.php [NC,L]
+
+RewriteRule ^Contact  contact.php [NC,L]
+
+RewriteRule ^Discord-Price  discord_server_price.php [NC,L]
+
+RewriteRule ^Minting-Price  minting_price.php [NC,L]
+
+RewriteRule ^NFT-Creation-Price nft_creation_price.php [NC,L]
+
+RewriteRule ^NFT-Generation-Price nft_generation_price.php [NC,L]
+
+RewriteRule ^Smart-Contact-Price smart_contact_price.php [NC,L]
+
+RewriteRule ^Website-Price website_price.php [NC,L]
+
+RewriteRule ^Blog blog.php [NC,L]
+
+RewriteRule ^Detail detail_blog.php [NC,L]
+
+RewriteRule ^Creation_Services creation_services.php [NC,L]
+
+RewriteRule ^Generation_Services generation_services.php [NC,L]
+
+RewriteRule ^Smart_Contact_Services smartcontact_services.php [NC,L]
+
+RewriteRule ^Minting_Services minting_services.php [NC,L]
+
+RewriteRule ^Website_Services website_services.php [NC,L]
+
+RewriteRule ^Discord_Services discord_services.php [NC,L]
