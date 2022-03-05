@@ -15,17 +15,17 @@
                                     <div class="thumb-list swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/01.jpg" alt="cat-image">
+                                                    src="assets/images/graphic-category/Ninja/1.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/02.jpg" alt="cat-image">
+                                                    src="assets/images/graphic-category/Ninja/2.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/03.jpg" alt="cat-image">
+                                                    src="assets/images/graphic-category/Ninja/3.png" alt="cat-image">
                                             </div>
                                         </div>
                                     </div>
@@ -45,17 +45,17 @@
                                     <div class="thumb-list swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/04.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Ghost_of_Kyiv_NFT/1.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/05.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Ghost_of_Kyiv_NFT/2.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/06.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Ghost_of_Kyiv_NFT/3.png" alt="cat-image">
                                             </div>
                                         </div>
                                     </div>
@@ -75,17 +75,17 @@
                                     <div class="thumb-list swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/07.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Godzilla/1.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/08.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Godzilla/2.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/09.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Godzilla/3.png" alt="cat-image">
                                             </div>
                                         </div>
                                     </div>
@@ -105,17 +105,17 @@
                                     <div class="thumb-list swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/10.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Solana_Unicorn_Land/1.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/11.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Solana_Unicorn_Land/2.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/12.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Solana_Unicorn_Land/3.png" alt="cat-image">
                                             </div>
                                         </div>
                                     </div>
@@ -135,17 +135,17 @@
                                     <div class="thumb-list swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/13.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/The_Bunny_Bots/1.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/14.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/The_Bunny_Bots/2.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/15.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/The_Bunny_Bots/3.png" alt="cat-image">
                                             </div>
                                         </div>
                                     </div>
@@ -165,17 +165,17 @@
                                     <div class="thumb-list swiper-wrapper">
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/16.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Dutch_Cannabis_Collection/1.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/17.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Dutch_Cannabis_Collection/2.png" alt="cat-image">
                                             </div>
                                         </div>
                                         <div class="swiper-slide">
                                             <div class="single-thumb"><img
-                                                    src="assets/images/nft-item/category/18.jpg" alt="cat-image">
+                                                        src="assets/images/graphic-category/Dutch_Cannabis_Collection/3.png" alt="cat-image">
                                             </div>
                                         </div>
                                     </div>

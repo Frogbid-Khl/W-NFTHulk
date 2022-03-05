@@ -17,7 +17,7 @@
                                 </a>
                             </div>
                             <div class="wallet-content">
-                                <h5><a href="#">NFT Creation</a></h5>
+                                <h5><a href="#">NFT</br>Creation</a></h5>
                             </div>
                         </div>
                     </div>
@@ -31,7 +31,7 @@
                                 </a>
                             </div>
                             <div class="wallet-content">
-                                <h5><a href="#">NFT Generation</a></h5>
+                                <h5><a href="#">NFT</br>Generation</a></h5>
                             </div>
                         </div>
                     </div>
@@ -45,7 +45,7 @@
                                 </a>
                             </div>
                             <div class="wallet-content">
-                                <h5><a href="#">Smart Contact</a></h5>
+                                <h5><a href="#">Smart</br>Contact</a></h5>
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                                 </a>
                             </div>
                             <div class="wallet-content">
-                                <h5><a href="#">Minting Page</a></h5>
+                                <h5><a href="#">Minting</br>Page</a></h5>
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
                                 </a>
                             </div>
                             <div class="wallet-content">
-                                <h5><a href="#">Marketing Website</a></h5>
+                                <h5><a href="#">Marketing</br>Website</a></h5>
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@
                                 </a>
                             </div>
                             <div class="wallet-content">
-                                <h5><a href="#">Discord Service</a></h5>
+                                <h5><a href="#">Discord</br>Service</a></h5>
                             </div>
                         </div>
                     </div>
