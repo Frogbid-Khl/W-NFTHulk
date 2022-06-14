@@ -39,9 +39,9 @@
                         </ul>
                     </li>
 
-                    <li class="header__nav-item">
+                   <!-- <li class="header__nav-item">
                         <a href="Blog" class="header__nav-link">Blog</a>
-                    </li>
+                    </li>-->
                     <li class="header__nav-item">
                         <a href="Contact" class="header__nav-link">Contact Us</a>
                     </li>

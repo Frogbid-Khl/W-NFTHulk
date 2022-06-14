@@ -72,7 +72,7 @@ include("includes/css.php");
 
 
     <!-- ===============//blog section start here \\================= -->
-    <section class="blog-section pb-120">
+    <!--<section class="blog-section pb-120">
         <div class="container">
             <div class="section-header style-4">
                 <div class="header-shape"><span></span></div>
@@ -152,7 +152,7 @@ include("includes/css.php");
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- ===============//blog section end here \\================= -->
 
 
