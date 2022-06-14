@@ -8,12 +8,12 @@
                                     Create</span>, Generate And <span class="theme-color-4"> <br> Sell</span> Digital
                             Items.
                         </h1>
-                        <p>When it comes to NFT Development & Design whether it is NFT Development,
-                            Smart Contract Creation for NFTs, or NFT Marketplace Development & Deployment, we've got you covered!</p>
+                        <p>We Do Exactly What You Say On The <span class="theme-color-4">Cryptocurrency. </span> <br>
+                            Don't Play With Fire, Play With <span class="theme-color-4">NFTs. </span><br>Cryptocurrency - It's Like <span class="theme-color-4">Heaven!<span></span></p>
                         <div class="banner-btns d-flex flex-wrap">
                             <a data-blast="bgColor" href="#"
                                class="default-btn move-top"><span>Contact Us</span> </a>
-                            <a href="#" class="default-btn move-right"><span>Packages</span> </a>
+                            <a href="NFT-Creation-Price" class="default-btn move-right"><span>Packages</span> </a>
                         </div>
                     </div>
                 </div>
@@ -30,10 +30,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <a href="author.html" class="veryfied"><img
-                                                                        loading="lazy" src="assets/images/seller/04.png"
-                                                                        alt="author-img"></a>
-                                                            <h6><a href="author.html">rasselmrh</a></h6>
+                                                            <h6><a href="#">Dutch Cannabis</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -67,6 +64,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="swiper-slide">
                                     <div class="nft-item home-4">
                                         <div class="nft-inner">
@@ -76,10 +74,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <a href="author.html" class="veryfied"><img
-                                                                        loading="lazy" src="assets/images/seller/04.png"
-                                                                        alt="author-img"></a>
-                                                            <h6><a href="author.html">Gucci Lucas</a></h6>
+                                                            <h6><a href="#">Ghost of Kyiv</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -123,10 +118,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <a href="author.html" class="veryfied"><img
-                                                                        loading="lazy" src="assets/images/seller/03.png"
-                                                                        alt="author-img"></a>
-                                                            <h6><a href="author.html">Imo35 ucas</a></h6>
+                                                            <h6><a href="author.html">Godzilla</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -160,6 +152,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="swiper-slide">
                                     <div class="nft-item home-4">
                                         <div class="nft-inner">
@@ -169,10 +162,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <a href="author.html" class="veryfied"><img
-                                                                        loading="lazy" src="assets/images/seller/04.png"
-                                                                        alt="author-img"></a>
-                                                            <h6><a href="author.html">lcus x3</a></h6>
+                                                            <h6><a href="author.html">Pixel Ninja</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -206,6 +196,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="swiper-slide">
                                     <div class="nft-item home-4">
                                         <div class="nft-inner">
@@ -215,10 +206,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <a href="author.html" class="veryfied"><img
-                                                                        loading="lazy" src="assets/images/seller/04.png"
-                                                                        alt="author-img"></a>
-                                                            <h6><a href="author.html">lcus x3</a></h6>
+                                                            <h6><a href="#">Unicorn Land</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -252,6 +240,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="swiper-slide">
                                     <div class="nft-item home-4">
                                         <div class="nft-inner">
@@ -261,10 +250,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <a href="author.html" class="veryfied"><img
-                                                                        loading="lazy" src="assets/images/seller/04.png"
-                                                                        alt="author-img"></a>
-                                                            <h6><a href="author.html">lcus x3</a></h6>
+                                                            <h6><a href="#">The Bunny Bot</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -298,6 +284,7 @@
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="swiper-slide">
                                     <div class="nft-item home-4">
                                         <div class="nft-inner">
@@ -307,10 +294,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <a href="author.html" class="veryfied"><img
-                                                                        loading="lazy" src="assets/images/seller/04.png"
-                                                                        alt="author-img"></a>
-                                                            <h6><a href="author.html">lcus x3</a></h6>
+                                                            <h6><a href="#">Yi Gives</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -338,6 +322,446 @@
                                             <div class="nft-item-bottom">
                                                 <div class="nft-thumb">
                                                     <img loading="lazy" src="assets/images/home_banner/7.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/8.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/9.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/10.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/11.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/12.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/13.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/14.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/15.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/16.png"
+                                                         alt="nft-img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="swiper-slide">
+                                    <div class="nft-item home-4">
+                                        <div class="nft-inner">
+                                            <!-- nft top part -->
+                                            <div
+                                                    class="nft-item-top d-flex justify-content-between align-items-center">
+                                                <div class="author-part">
+                                                    <ul class="author-list d-flex">
+                                                        <li class="single-author d-flex align-items-center">
+                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="more-part">
+                                                    <div class=" dropstart">
+                                                        <a class=" dropdown-toggle" href="#" role="button"
+                                                           data-bs-toggle="dropdown" aria-expanded="false"
+                                                           data-bs-offset="25,0">
+                                                            <i class="icofont-flikr"></i>
+                                                        </a>
+
+                                                        <ul class="dropdown-menu">
+                                                            <li><a class="dropdown-item" href="#"><span>
+                                                                            <i class="icofont-warning"></i>
+                                                                        </span> Report </a>
+                                                            </li>
+                                                            <li><a class="dropdown-item" href="#"><span><i
+                                                                                class="icofont-reply"></i></span>
+                                                                    Share</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- nft-bottom part -->
+                                            <div class="nft-item-bottom">
+                                                <div class="nft-thumb">
+                                                    <img loading="lazy" src="assets/images/home_banner/17.png"
                                                          alt="nft-img">
                                                 </div>
                                             </div>

@@ -28,7 +28,7 @@
 }
 @media screen and (min-width: 1120px) {
     .grid-1-5 {
-        width: 20%;
+        width: 28.33%;
     }
     .grid-1-5:nth-child(odd), .grid-1-5:nth-child(3n+1) {
         clear: none;

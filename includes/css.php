@@ -24,4 +24,4 @@
 <link rel="stylesheet" href="assets/css/custom.css">
 
 <!-- site title -->
-<title>Enftomark</title>
+<title>NFT Hulk</title>

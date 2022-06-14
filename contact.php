@@ -48,7 +48,7 @@ include("includes/navbar.php");
                 <article class="contact-form-wrapper">
                     <div class="contact-form">
                         <h4>Don't Be A Stranger Just Say Hello.</h4>
-                        <form action="#" method="POST" id="commentform" class="comment-form">
+                        <form action="Email" method="POST" id="commentform" class="comment-form">
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">

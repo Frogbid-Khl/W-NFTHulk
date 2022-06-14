@@ -62,7 +62,7 @@
                                 </div>
                                 <div class="nft-content">
                                     <div class="author-details">
-                                        <h4><a href="explore.html">Music</a> </h4>
+                                        <h4><a href="explore.html">Pixel Art</a> </h4>
                                     </div>
                                 </div>
                             </div>
@@ -92,7 +92,7 @@
                                 </div>
                                 <div class="nft-content">
                                     <div class="author-details">
-                                        <h4><a href="explore.html">Domain Name </a> </h4>
+                                        <h4><a href="explore.html">Pixel Art</a> </h4>
                                     </div>
                                 </div>
                             </div>
@@ -122,7 +122,7 @@
                                 </div>
                                 <div class="nft-content">
                                     <div class="author-details">
-                                        <h4><a href="explore.html">Sports </a> </h4>
+                                        <h4><a href="explore.html">Pixel Art</a> </h4>
                                     </div>
                                 </div>
                             </div>
@@ -152,7 +152,7 @@
                                 </div>
                                 <div class="nft-content">
                                     <div class="author-details">
-                                        <h4><a href="explore.html">Utilities</a> </h4>
+                                        <h4><a href="explore.html">Moscot Art</a> </h4>
                                     </div>
                                 </div>
                             </div>
@@ -182,7 +182,7 @@
                                 </div>
                                 <div class="nft-content">
                                     <div class="author-details">
-                                        <h4><a href="explore.html">All NFT's</a> </h4>
+                                        <h4><a href="explore.html">Moscot Art</a> </h4>
                                     </div>
                                 </div>
                             </div>

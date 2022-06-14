@@ -66,7 +66,18 @@ include("includes/navbar.php");
                             <li>Minting Functionality</li>
                             <li>Free Support</li>
                         </ul>
-                        <a href="" class="button_pricing uppercase">Order Now</a>
+                        <a href="Contact" class="button_pricing uppercase">Order Now</a>
+                    </div>
+                    <div class="grid-1-5" style="height: 400px">
+                        <h2 class="price_heading">Landing Page<br>+<br>Minting</h2>
+                        <h3><sup>$</sup>350</h3>
+                        <p>Landing Page and Minting with Additional Functionality</p>
+                        <ul class="pricing_ul">
+                            <li>Minting Page Design</li>
+                            <li>Minting Functionality</li>
+                            <li>Free Support</li>
+                        </ul>
+                        <a href="Contact" class="button_pricing uppercase">Order Now</a>
                     </div>
                 </div>
             </div>

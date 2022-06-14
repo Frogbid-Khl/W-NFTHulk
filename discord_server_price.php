@@ -27,10 +27,10 @@ include("includes/navbar.php");
         <div class="page-header-content">
             <div class="page-header-inner">
                 <div class="page-title">
-                    <h2>Minting Pricing</h2>
+                    <h2>Discord Server Pricing</h2>
                 </div>
                 <ol class="breadcrumb">
-                    <li><a href="Welcome">Home</a></li>
+                    <li><a href="Welcome">Pricing</a></li>
                     <li class="active">Discord Server Pricing</li>
                 </ol>
             </div>
@@ -47,28 +47,50 @@ include("includes/navbar.php");
         <div class="container">
             <div class="row">
                 <div class="container group">
-                    <div class="grid-1-5" style="height: 400px;">
-                        <h2 class="price_heading">Minting Function</h2>
-                        <h3><sup>$</sup>100</h3>
-                        <p>Only Minting Functionality (No Design)</p>
+                    <div class="grid-1-5" style="height: 480px;">
+                        <h2 class="price_heading">Discord Server SetUp (Starter)</h2>
+                        <h3><sup>$</sup>50</h3>
+                        <p>Setup Basic Discord Server for your NFT Business</p>
                         <ul class="pricing_ul">
-                            <li>Minting Functionality</li>
-                            <li>Free Support</li>
+                            <li>Discord Server Setup</li>
+                            <li>Upto 20 Channels</li>
+                            <li>Upto 3 Roles Setup</li>
+                            <li>Upto 3 Bots Setup</li>
                         </ul>
                         <a href="contact.php" class="button_pricing uppercase">Order Now</a>
                     </div>
-                    <div class="grid-1-5" style="height: 400px">
-                        <h2 class="price_heading">Landing Page<br>+<br>Minting</h2>
-                        <h3><sup>$</sup>200</h3>
-                        <p>Landing Page and Minting Functionality</p>
+                    <div class="grid-1-5" style="height: 480px;">
+                        <h2 class="price_heading">Discord Server SetUp (Recommended)</h2>
+                        <h3><sup>$</sup>100</h3>
+                        <p>Setup Professional Discord Server for your NFT Business</p>
                         <ul class="pricing_ul">
-                            <li>Minting Page Design</li>
-                            <li>Minting Functionality</li>
-                            <li>Free Support</li>
+                            <li>Discord Server Setup</li>
+                            <li>Upto 40 Channels</li>
+                            <li>Upto 10 Roles Setup</li>
+                            <li>Upto 10 Bots Setup</li>
+                            <li>Invite Tracker</li>
+                            <li>Level Tracker</li>
                         </ul>
-                        <a href="" class="button_pricing uppercase">Order Now</a>
+                        <a href="contact.php" class="button_pricing uppercase">Order Now</a>
+                    </div>
+                    <div class="grid-1-5" style="height: 480px;">
+                        <h2 class="price_heading">Discord Server SetUp (Premium)</h2>
+                        <h3><sup>$</sup>200</h3>
+                        <p>Setup Premium Discord Server for your NFT Business</p>
+                        <ul class="pricing_ul">
+                            <li>Discord Server Setup</li>
+                            <li>Upto 60 Channels</li>
+                            <li>Upto 20 Roles Setup</li>
+                            <li>Upto 20 Bots Setup</li>
+                            <li>Auto Mod Setup</li>
+                            <li>Plus all features from Recommended Package</li>
+                        </ul>
+                        <a href="contact.php" class="button_pricing uppercase">Order Now</a>
                     </div>
                 </div>
+            </div>
+            <div class="row text-center mt-5">
+                <h2>Please <a href="Contact" style="color: #f3a735; text-decoration: none;">contact with us</a> for any custom offer!</h2>
             </div>
         </div>
     </div>

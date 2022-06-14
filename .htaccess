@@ -33,3 +33,5 @@ RewriteRule ^Minting_Services minting_services.php [NC,L]
 RewriteRule ^Website_Services website_services.php [NC,L]
 
 RewriteRule ^Discord_Services discord_services.php [NC,L]
+
+RewriteRule ^Email email.php [NC,L]

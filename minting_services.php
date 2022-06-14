@@ -26,10 +26,10 @@ include("includes/navbar.php");
         <div class="page-header-content">
             <div class="page-header-inner">
                 <div class="page-title">
-                    <h2>Blog Page </h2>
+                    <h2>NFT Minting</h2>
                 </div>
                 <ol class="breadcrumb">
-                    <li><a href="Welcome">Home</a></li>
+                    <li><a href="Welcome">Services</a></li>
                     <li class="active">Minting Service</li>
                 </ol>
             </div>
@@ -41,24 +41,25 @@ include("includes/navbar.php");
 <!-- ===============//main body start here \\================= -->
 
 <div class="services">
-    <h2>SERVICES</h2>
-    <span>Air Freight</span>
-    <p>Together with our partners, we developed strong relationships with major air carriers around the world. In Asia
-        and especially for importing to and exporting from China and Jpan, we work closely together with well known air
-        lines such as Air China, ANA, Japan Airline and many others. These relations enable us to provide a competitive
-        and highly flexible network to ship your air freight.</p>
+    <h2>NFT Minting</h2>
+    <span>What Is Minting NFT?</span>
+    <p>An NFT is a blockchain-based token that proves ownership of a digital item such as images, video files, and even
+        physical assets. In simple terms, Minting an NFT refers to converting digital files into crypto collections or
+        digital assets stored on the blockchain.
+        <br>
+        The digital items or files will be stored in a decentralized database or distributed ledger and cannot be
+        edited, modified, or deleted. Similar to fiat currency creation, when a manufacturer mints a physical coin, the
+        process of uploading a specific item to the blockchain is known as minting.
+        <br>
+        During the printing process, the creators of the NFTs can schedule royalties from each next sale, which will
+        become a commission they can receive each time their work is sold to someone else or traded on the secondary
+        market.<br>
+    </p>
     <img src="https://www.prochinafreight.com/wp-content/uploads/air-cargo-freight.jpg" width=700 alt="">
-    <span>Sea Freight</span>
-    <p>We offer LCL, FCL and break bulk transportation regardless the amount or value of your goods. We can ship your
-        sea freight no matter if you want to import to China, export from China or need to conduct any other
-        international sea freight shipment.</p>
-    <img src="https://dsv-media-premium.azureedge.net/~/media/Shared/Images/640x360-related-boxes/sea/DSV_2009_SEA_0006_640x360.jpg?h=360&la=en&w=640&revision=8d3090c4-b5e1-4e9b-8904-8c726a68f467"
-         width=700 alt="">
-    <span>Warehousing</span>
-    <p>At Shanghai Sky-xing International Transportation Co., Ltd., we support you by providing warehouse facilities
-        near Pudong International Airports. With these warehouses, we also provide a door to door solution for exporting
-        through international carriers or domestic delivery.</p>
-    <img src="http://www.economicmodeling.com/wp-content/uploads/warehousing.jpg" width=700 alt="">
+    <span>Where You Can Mint?</span>
+    <p>You can mint NFTs in different marketplaces like Opensea or we can implement your own minting mechanism in your
+        website. User can mint your nft collection from you website and also directly publish it on Opensea.
+    </p>
 </div>
 
 <!-- ===============//main body end here \\================= -->

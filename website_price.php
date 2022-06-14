@@ -27,10 +27,10 @@ include("includes/navbar.php");
         <div class="page-header-content">
             <div class="page-header-inner">
                 <div class="page-title">
-                    <h2>Minting Pricing</h2>
+                    <h2>Website Pricing</h2>
                 </div>
                 <ol class="breadcrumb">
-                    <li><a href="Welcome">Home</a></li>
+                    <li><a href="Welcome">Pricing</a></li>
                     <li class="active">Website Pricing</li>
                 </ol>
             </div>
@@ -47,28 +47,49 @@ include("includes/navbar.php");
         <div class="container">
             <div class="row">
                 <div class="container group">
-                    <div class="grid-1-5" style="height: 400px;">
-                        <h2 class="price_heading">Minting Function</h2>
+                    <div class="grid-1-5" style="height: 440px;">
+                        <h2 class="price_heading">Promotional Website (Starter)</h2>
                         <h3><sup>$</sup>100</h3>
-                        <p>Only Minting Functionality (No Design)</p>
+                        <p>We will Design a Promotional Website for your NFT Project</p>
                         <ul class="pricing_ul">
-                            <li>Minting Functionality</li>
-                            <li>Free Support</li>
+                            <li>Single Page</li>
+                            <li>Contain 4 to 5 Sections</li>
+                            <li>No Animation</li>
+                            <li>No Graphic Elements for Websites</li>
+                            <li>Extra $50 for Separate Minting Page</li>
                         </ul>
                         <a href="contact.php" class="button_pricing uppercase">Order Now</a>
                     </div>
-                    <div class="grid-1-5" style="height: 400px">
-                        <h2 class="price_heading">Landing Page<br>+<br>Minting</h2>
+                    <div class="grid-1-5" style="height: 440px;">
+                        <h2 class="price_heading">Promotional Website (Recommended)</h2>
                         <h3><sup>$</sup>200</h3>
-                        <p>Landing Page and Minting Functionality</p>
+                        <p>We will Design a Promotional Website for your NFT Project</p>
                         <ul class="pricing_ul">
-                            <li>Minting Page Design</li>
-                            <li>Minting Functionality</li>
-                            <li>Free Support</li>
+                            <li>Single Page</li>
+                            <li>Contain 6 to 8 Sections</li>
+                            <li>Graphic Elements for Websites</li>
+                            <li>With Animation</li>
+                            <li>Extra $50 for Separate Minting Page</li>
                         </ul>
-                        <a href="" class="button_pricing uppercase">Order Now</a>
+                        <a href="contact.php" class="button_pricing uppercase">Order Now</a>
                     </div>
+                    <div class="grid-1-5" style="height: 440px;">
+                        <h2 class="price_heading">Promotional Website (Premium)</h2>
+                        <h3><sup>$</sup>350</h3>
+                        <p>We will Design a Promotional Website for your NFT Project</p>
+                        <ul class="pricing_ul">
+                            <li>Multiple Page</li>
+                            <li>Contain 6 to 8 Pages</li>
+                            <li>With Animation</li>
+                            <li>Graphic Elements for Websites</li>
+                        </ul>
+                        <a href="contact.php" class="button_pricing uppercase">Order Now</a>
+                    </div>
+
                 </div>
+            </div>
+            <div class="row text-center mt-5">
+                <h2>Please <a href="Contact" style="color: #f3a735; text-decoration: none;">contact with us</a> for any custom offer!</h2>
             </div>
         </div>
     </div>

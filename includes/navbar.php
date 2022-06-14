@@ -9,7 +9,7 @@
             <div class="header__menu ms-auto">
                 <ul class="header__nav mb-0">
                     <li class="header__nav-item">
-                        <a class="header__nav-link active home-4" href="Welcome" role="button"
+                        <a class="header__nav-link home-4" href="Welcome" role="button"
                            aria-haspopup="true" aria-expanded="false" data-bs-offset="0,10">Home</a>
                     </li>
                     <li class="header__nav-item">

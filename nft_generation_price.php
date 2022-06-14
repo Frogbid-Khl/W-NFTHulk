@@ -27,10 +27,10 @@ include("includes/navbar.php");
         <div class="page-header-content">
             <div class="page-header-inner">
                 <div class="page-title">
-                    <h2>Minting Pricing</h2>
+                    <h2>NFT Generation</h2>
                 </div>
                 <ol class="breadcrumb">
-                    <li><a href="Welcome">Home</a></li>
+                    <li><a href="Welcome">Pricing</a></li>
                     <li class="active">NFT Generation Pricing</li>
                 </ol>
             </div>
@@ -48,27 +48,42 @@ include("includes/navbar.php");
             <div class="row">
                 <div class="container group">
                     <div class="grid-1-5" style="height: 400px;">
-                        <h2 class="price_heading">Minting Function</h2>
-                        <h3><sup>$</sup>100</h3>
-                        <p>Only Minting Functionality (No Design)</p>
+                        <h2 class="price_heading">NFT Generation (Starter)</h2>
+                        <h3><sup>$</sup>50</h3>
+                        <p>Generate upto 1K NFT Collection using your base character and traits</p>
                         <ul class="pricing_ul">
-                            <li>Minting Functionality</li>
+                            <li>Upto 1K NFT Collection</li>
+                            <li>Including MetaData</li>
                             <li>Free Support</li>
                         </ul>
                         <a href="contact.php" class="button_pricing uppercase">Order Now</a>
                     </div>
-                    <div class="grid-1-5" style="height: 400px">
-                        <h2 class="price_heading">Landing Page<br>+<br>Minting</h2>
-                        <h3><sup>$</sup>200</h3>
-                        <p>Landing Page and Minting Functionality</p>
+                    <div class="grid-1-5" style="height: 400px;">
+                        <h2 class="price_heading">NFT Generation (Recommended)</h2>
+                        <h3><sup>$</sup>100</h3>
+                        <p>Generate upto 2K NFT Collection using your base character and traits</p>
                         <ul class="pricing_ul">
-                            <li>Minting Page Design</li>
-                            <li>Minting Functionality</li>
+                            <li>Upto 2K NFT Collection</li>
+                            <li>Including MetaData</li>
                             <li>Free Support</li>
                         </ul>
-                        <a href="" class="button_pricing uppercase">Order Now</a>
+                        <a href="contact.php" class="button_pricing uppercase">Order Now</a>
+                    </div>
+                    <div class="grid-1-5" style="height: 400px;">
+                        <h2 class="price_heading">NFT Generation (Premium)</h2>
+                        <h3><sup>$</sup>200</h3>
+                        <p>Generate upto 5K NFT Collection using your base character and traits</p>
+                        <ul class="pricing_ul">
+                            <li>Upto 5K NFT Collection</li>
+                            <li>Including MetaData</li>
+                            <li>Free Support</li>
+                        </ul>
+                        <a href="contact.php" class="button_pricing uppercase">Order Now</a>
                     </div>
                 </div>
+            </div>
+            <div class="row text-center mt-5">
+                <h2>Please <a href="Contact" style="color: #f3a735; text-decoration: none;">contact with us</a> for any custom offer!</h2>
             </div>
         </div>
     </div>
