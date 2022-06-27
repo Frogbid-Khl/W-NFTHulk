@@ -26,7 +26,7 @@ include("includes/navbar.php");
         <div class="page-header-content">
             <div class="page-header-inner">
                 <div class="page-title">
-                    <h2>Blog Page </h2>
+                    <h2>NFT Websites</h2>
                 </div>
                 <ol class="breadcrumb">
                     <li><a href="Welcome">Home</a></li>
@@ -51,7 +51,6 @@ include("includes/navbar.php");
 
         Some popular examples include the NBA, which sells NFTs of video clips of basketball games. Or digital artist
         Beeple who famously sold his art for $69 million in an auction.</p>
-    <img src="https://www.prochinafreight.com/wp-content/uploads/air-cargo-freight.jpg" width=700 alt="">
     <span> 1. As an investment</span>
     <p>The scarcity aspect of NFTs has led them to become collectibles, and historically their value increases after the
         initial sale. Similarly to buying a piece of art as an investment, people hope and expect the value of their NFT

@@ -55,7 +55,6 @@ include("includes/navbar.php");
         become a commission they can receive each time their work is sold to someone else or traded on the secondary
         market.<br>
     </p>
-    <img src="https://www.prochinafreight.com/wp-content/uploads/air-cargo-freight.jpg" width=700 alt="">
     <span>Where You Can Mint?</span>
     <p>You can mint NFTs in different marketplaces like Opensea or we can implement your own minting mechanism in your
         website. User can mint your nft collection from you website and also directly publish it on Opensea.

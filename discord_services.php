@@ -26,7 +26,7 @@ include("includes/navbar.php");
         <div class="page-header-content">
             <div class="page-header-inner">
                 <div class="page-title">
-                    <h2>Blog Page </h2>
+                    <h2>NFT Discord Server</h2>
                 </div>
                 <ol class="breadcrumb">
                     <li><a href="Welcome">Home</a></li>
@@ -46,18 +46,14 @@ include("includes/navbar.php");
     <p>NFT communities are great places to get information about the next potential NFT projects and gain exposure to
         early news about the NFT world faster than any other social media platform. Here are some of the reasons why you
         should join an NFT discord community.</p>
-    <img src="https://www.prochinafreight.com/wp-content/uploads/air-cargo-freight.jpg" width=700 alt="">
     <span>1. NFT Collectors</span>
     <p>Every NFT collector should join a discord community for timely updates on big NFT projects with the highest
         potential. It’s worth investing time in various NFT discord communities if you’re looking for the next biggest
         NFT projects.</p>
-    <!--<img src="https://dsv-media-premium.azureedge.net/~/media/Shared/Images/640x360-related-boxes/sea/DSV_2009_SEA_0006_640x360.jpg?h=360&la=en&w=640&revision=8d3090c4-b5e1-4e9b-8904-8c726a68f467"
-         width=700 alt="">-->
     <span>2. NFT Investor</span>
     <p>Joining an active NFT project discord server would help investors determine the potential for success of the NFT
         projects. The more active the community is, the higher the likelihood of the project blowing in the future. This
         would help you make wise investment decisions.</p>
-   <!-- <img src="http://www.economicmodeling.com/wp-content/uploads/warehousing.jpg" width=700 alt="">-->
     <span>3. NFT Artist</span>
     <p>There are some NFT artist discord communities specifically for NFT artists. This platform is a great way for you
         to get to meet other NFT artists and be inspired by them. The feeling of the community would also ensure you

@@ -48,7 +48,6 @@ include("includes/navbar.php");
         of the outcome, without any intermediary’s involvement or time loss. They can also automate a workflow,
         triggering the next action when conditions are met.
     </p>
-    <img src="https://www.prochinafreight.com/wp-content/uploads/air-cargo-freight.jpg" width=700 alt="">
     <span>How smart contracts work</span>
     <p>Smart contracts work by following simple “if/when…then…” statements that are written into code on a blockchain. A
         network of computers executes the actions when predetermined conditions have been met and verified. These

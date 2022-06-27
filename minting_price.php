@@ -81,6 +81,9 @@ include("includes/navbar.php");
                     </div>
                 </div>
             </div>
+            <div class="row text-center mt-5">
+                <h2>Please <button type="button" class="btn btn-secondary"><a href="Contact" style="color: #f3a735; font-size: 30px; text-decoration: none;">Contact Us</a></button> for any custom offer!</h2>
+            </div>
         </div>
     </div>
 </div>

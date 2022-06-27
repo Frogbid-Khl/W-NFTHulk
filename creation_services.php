@@ -51,7 +51,7 @@ include("includes/navbar.php");
         A step-by-step diagram explaining how to make, or mint, a non-fungible token (NFT).
         IT'S IMPORTANT TO REMEMBER THAT, DUE TO THE COSTS OF MAKING NFTS, THERE IS THE POSSIBILITY THAT YOU COULD LOSE
         MONEY ON YOUR CREATION.</p>
-    <img src="https://www.prochinafreight.com/wp-content/uploads/air-cargo-freight.jpg" width=700 alt="">
+    <img src="assets/images/services/creation.png" width=100% alt="">
     <span>1. Pick your item</span>
     <p>Let's start with the basics. If you haven't already done so, you'll need to determine what unique digital asset
         you want to turn into an NFT. It can be a custom painting, picture, music, video game collectible, meme, GIF, or
