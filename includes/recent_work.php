@@ -285,7 +285,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">BAMF Frogs</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -304,7 +304,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">BAMF Frogs</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -323,7 +323,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">Goat</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -342,7 +342,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">Goat</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -361,7 +361,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">Goose</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -380,7 +380,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">Goose</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -399,7 +399,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">Crypto Lynx</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -418,7 +418,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">Crypto Lynx</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -437,7 +437,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">4am Cups</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -456,7 +456,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">4am Cups</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -475,7 +475,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">Chubby Tigerz</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -494,7 +494,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">Chubby Tigerz</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -513,7 +513,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">Wallypond</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -532,7 +532,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">Wallypond</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -551,7 +551,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">Cute Wolf</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -570,7 +570,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">Cute Wolf</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -589,7 +589,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">Gundam</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -608,7 +608,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">Gundam</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>
@@ -627,7 +627,7 @@
                                     <div class="author-part">
                                         <ul class="author-list d-flex">
                                             <li class="single-author d-flex align-items-center">
-                                                <h6><a href="#">Yi Gives</a></h6>
+                                                <h6><a href="#">Joker Heroes & Villains</a></h6>
                                             </li>
                                         </ul>
                                     </div>
@@ -646,7 +646,7 @@
                                         </ul>
                                     </div>
                                     <div class="nft-content">
-                                        <h4><a href="#">Yi Gives</a> </h4>
+                                        <h4><a href="#">Joker Heroes & Villains</a> </h4>
                                         <div class="price-like d-flex justify-content-between align-items-center">
                                             <p class="nft-price">Category: <span class="yellow-color">NFT Creation</span>
                                             </p>

@@ -338,7 +338,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">BAMF Frogs</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -382,7 +382,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">Goats</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -426,7 +426,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">Goose</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -470,7 +470,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">Crypto Lynx</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -514,7 +514,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">4AM Cups</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -558,7 +558,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">Chubby Tigerz</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -602,7 +602,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">Cute Wolf</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -646,7 +646,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">Gundam</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -690,7 +690,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">Joker Heroes & Villains</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -734,7 +734,7 @@
                                                 <div class="author-part">
                                                     <ul class="author-list d-flex">
                                                         <li class="single-author d-flex align-items-center">
-                                                            <h6><a href="#">Yi Gives</a></h6>
+                                                            <h6><a href="#">Wallypond</a></h6>
                                                         </li>
                                                     </ul>
                                                 </div>
